@@ -1,1 +1,1 @@
-# ethereum-ma
+# ethereum-mation
